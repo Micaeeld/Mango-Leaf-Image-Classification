@@ -1,5 +1,5 @@
 # Mango Leaf Disease Classification using TensorFlow
-This notebook uses a dataset of 4000 images of mango leaves captured from four mango orchards in Bangladesh, which include seven different diseases and a healthy category. The images are in JPG format and have a resolution of 240x320 pixels. The dataset includes 1800 distinct leaves and 2200 images that were prepared by zooming and rotating when necessary.
+This notebook uses a dataset of 4000 images of mango leaves captured from four mango orchards in Bangladesh, which include seven different diseases and a healthy category. The images are in JPG format and have a resolution of 240x320 pixels. The dataset includes 1800 distinct leaves and 2200 images that were prepared by zooming and rotating when necessary. The images were taken from Kaggle in https://www.kaggle.com/datasets/aryashah2k/mango-leaf-disease-dataset?select=Sooty+Mould.
 
 ## Data Description:
 - Type of data: 240x320 mango leaf images.
@@ -26,3 +26,8 @@ Evaluating the model using the testing set
 
 ## Conclusion
 In this notebook, we have demonstrated how to use TensorFlow to classify mango leaves into different categories of diseases. The trained model achieved good accuracy on the testing set, indicating that it can be used for practical applications such as identifying diseased mango leaves in the field.
+
+## Contribution
+Contributions are welcome! If you find any bugs or have any suggestions for improvement, please open an issue in the repository or submit a pull request.
+a pull request.
+
