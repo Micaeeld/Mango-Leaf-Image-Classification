@@ -1,3 +1,6 @@
+##### Use https://nbviewer.org to upload the file in case of errors
+---
+
 # Mango Leaf Disease Classification using TensorFlow
 This notebook uses a dataset of 4000 images of mango leaves captured from four mango orchards in Bangladesh, which include seven different diseases and a healthy category. The images are in JPG format and have a resolution of 240x320 pixels. The dataset includes 1800 distinct leaves and 2200 images that were prepared by zooming and rotating when necessary. The images were taken from Kaggle in https://www.kaggle.com/datasets/aryashah2k/mango-leaf-disease-dataset?select=Sooty+Mould.
 
